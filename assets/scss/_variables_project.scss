@@ -1,0 +1,28 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+
+.card-deck {
+
+	.bg-primary-dark {
+	    background-color: #30638e;
+	}
+
+	.card-title {
+    	margin-bottom: 1rem;
+	}
+
+	.card-text {
+		font-size: .8em;
+	}
+
+	a {
+		color: white;
+	}
+	a:hover {
+		color: white;
+	}
+}
