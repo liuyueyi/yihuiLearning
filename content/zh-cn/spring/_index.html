@@ -6,138 +6,339 @@ menu:
     weight: 30
 ---
 
-
-{{% blocks/lead color="primary" %}}
-
-数据库精选系列
-
-<small>文档型数据库、关系型数据库、时序数据库，应有尽有</small>
-
-{{% /blocks/lead %}}
-
-{{< blocks/section color="white">}}
-
-    <div class="card-deck row">
-        <a href="/influxdb/learning" class="col-3 card-link">
+<table class="table table-striped table-bordered" style="table-layout: fixed; margin-top: 8em;">
+  <tbody>
+    <tr>
+      <th class="text-center align-middle">
+        SpringBoot基础系列教程
+        <footer class="blockquote-footer"><small>配置&日志&AOP&IOC&事件&国际化&定时器等基本知识点大全</small></footer>
+      </th>
+      <td>
+        <a href="/spring-basic/00.配置" class="card-link">
           <div class="card border-primary-dark ">
             <img
               src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
-                <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《InfluxDB基础教程》</h5>
-                  <p class="card-text text-black">
-                    手把手教你学会时序数据库InfluxDB的CURD
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i>
+                <div class="card-body bg-primary text-white">
+                  <h5 class="card-title lead">《SpringBoot 配置手册》</h5>
+                  <p class="card-text small">
+                    我们常说Spring约定大于配置，那么约定是什么？配置在哪里？怎么读取呢？多环境配置又改如何管理呢？本系列教程将为您一一解惑
                   </p>
                 </div>
           </div>
         </a>
-    
-        <a href="/influxdb/skill" class="col-3">
-          <div class="card border-primary-dark">
+      </td>
+      <td>
+        <a href="/spring-basic/01.AOP" class="card-link">
+          <div class="card border-primary-dark ">
             <img
               src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《InfluxDB实战小技巧》</h5>
+                  <h5 class="card-title text-black section-head">《SpringBoot AOP扫盲》</h5>
                   <p class="card-text text-black">
-                    时序数据库InfluxDB的使用小技巧介绍
+                    教你如何玩转Spring的两大特性之一AOP，掌握工作中的代码整洁之道
                   </p>
                 </div>
           </div>
         </a>
-
-        <a href="/mongodb/learning" class="col-3">
-          <div class="card border-primary-dark">
+      </td>
+      <td>
+         <a href="/spring-basic/02.BEAN" class="card-link">
+          <div class="card border-primary-dark ">
             <img
-              src="/imgs/wiki/mongo.jpg"
+              src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px;"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《MmongoDB基础教程》</h5>
+                  <h5 class="card-title text-black section-head">《SpringBoot Bean工厂》</h5>
                   <p class="card-text text-black">
-                    手把手教你学会文档数据库MongoDB的CURD
+                    对象作为Java第一等公民，而Bean可算是Spring的一等公民了，如何声明、初始化、注入Bean是学习Spring中不可缺少的一环
                   </p>
                 </div>
           </div>
         </a>
-
-        <a href="/mongodb/learning" class="col-3">
-          <div class="card border-primary-dark">
+      </td>
+      <td>
+        <a href="/spring-basic/03.SpEL" class="card-link">
+          <div class="card border-primary-dark ">
             <img
-              src="/imgs/wiki/mongo.jpg"
+              src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《MongoDB使用小技巧》</h5>
+                  <h5 class="card-title text-black section-head">《SpringBoot SpEL表达式》</h5>
                   <p class="card-text text-black">
-                    文档数据库MongoDB的使用小技巧介绍
+                    Spring Expression Language在Spring生态中应用颇广，如配置读取，AOP注解的增强，条件注入等等，推荐有兴趣的了解一下
                   </p>
                 </div>
           </div>
         </a>
-
-        <br/>
-
-        <a href="/mysql/learning" class="col-3 card-link">
-          <div class="card border-primary-dark">
+      </td>
+      <td>
+         <a href="/spring-basic/04.事件" class="card-link">
+          <div class="card border-primary-dark ">
             <img
-              src="/imgs/wiki/mysql.jpg"
+              src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《MySql基础教程》</h5>
-                  <p class="card-text ">
-                    关系型数据库MySql基础系列教程
+                  <h5 class="card-title text-black section-head">《SpringBoot 消息事件》</h5>
+                  <p class="card-text text-black">
+                    消息事件大量应用在Spring中，传说中的解耦神器；当然这里的消息事件是jvm级别的，本系列将带你了解Spring容器的哪些事件，以及如何自定义生产消费事件
                   </p>
                 </div>
           </div>
         </a>
+      </td>
+    </tr>
+    <hr>
+      <th>
+      </th>
+      
+      <td>
 
-        <a href="/mysql/skill" class="col-3">
-          <div class="card border-primary-dark">
+        <a href="/spring-basic/05.国际化" class="card-link">
+          <div class="card border-primary-dark ">
             <img
-              src="/imgs/wiki/mysql.jpg"
+              src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《MySql实战小Tip》</h5>
+                  <h5 class="card-title text-black section-head">《SpringBoot 国际化》</h5>
                   <p class="card-text text-black">
-                    MySql日常使用中的一些小工具，小技巧合集
+                    手把手教你国际化配置支持，多语言开发者的福音
                   </p>
                 </div>
           </div>
         </a>
 
-        <a href="/mysql/high" class="col-3">
-          <div class="card border-primary-dark">
+      </td>
+      <td>
+
+
+        <a href="/spring-basic/06.定时器" class="card-link">
+          <div class="card border-primary-dark ">
             <img
-              src="/imgs/wiki/mysql.jpg"
+              src="/imgs/wiki/influx.jpg"
               class="card-img-top"
               draggable="false"
-              style="padding: 2rem; max-height: 140px"
-              alt="influxdb learning"/>
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"></i></i>
                 <div class="card-body bg-primary-dark">
-                  <h5 class="card-title text-black section-head">《MySql进阶》</h5>
+                  <h5 class="card-title text-black section-head">《SpringBoot 定时器》</h5>
                   <p class="card-text text-black">
-                    索引、锁、事务，日常问题排查等高阶知识点
+                    基于Spring容器，分分钟教你实现JVM级别的定时任务
                   </p>
                 </div>
           </div>
         </a>
-    </div>
 
-{{< /blocks/section >}}
+      </td>
+      <td>
+         <a href="/spring-basic/07.日志" class="card-link">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot 日志》</h5>
+                  <p class="card-text text-black">
+                    所有开发者的好基友，一个成熟的系统离不开日志系统的建设，这里将介绍下如何配置日志、使用日志
+                  </p>
+                </div>
+          </div>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <th class="text-center align-middle">
+        SpringBoot数据库系列教程
+<footer class="blockquote-footer"><small>SpringBoot无障碍接入各类数据库，如h2,MySql,MongoDb,Redis,InfluxDB等</small></footer>
+      </th>
+      <td>
+         <a href="/spring-db/01.H2Database" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot H2Database》</h5>
+                  <p class="card-text text-black">
+                    SpringBoot整合H2Database，实现老生常谈的CURD
+                  </p>
+                </div>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="/spring-db/02.JPA" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot Hibernate学习手册》</h5>
+                  <p class="card-text text-black">
+                    据说国外的大仓更喜欢使用Hibernate操作数据库，本手册将手把手教你完全使用Hibernate/JPA方式支撑业务需求
+                  </p>
+                </div>
+          </div>
+        </a>
+      </td>
+      <td>
+
+        <a href="/spring-db/03.JdbcTemplate" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot JdbcTemplate操作手册》</h5>
+                  <p class="card-text text-black">
+                    摆脱ORM框架，直接JdbcTemplate来操作数据库，数据扫描、脚本开发者都应该掌握的知识点，享受直写Sql的魅力
+                  </p>
+                </div>
+          </div>
+        </a>
+
+      </td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>
+
+
+        <a href="/spring-db/05.Mybatis" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot Mybatis零基础教程》</h5>
+                  <p class="card-text text-black">
+                    国内Java生态下ORM框架的杠把子，零基础教程，保姆级文档，适用于初中级开发的学习参考手册
+                  </p>
+                </div>
+          </div>
+        </a>
+
+      </td>
+      <td>
+
+
+        <a href="/spring-db/06.事务" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot 事务》</h5>
+                  <p class="card-text text-black">
+                    进阶知识点，如何在Spring容器中使用事务？看这个系列就完了
+                  </p>
+                </div>
+          </div>
+        </a>
+
+      </td>
+      <td>
+
+
+        <a href="/spring-db/07.MongoDB" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot MongoDB系列教程》</h5>
+                  <p class="card-text text-black">
+                    文档数据库SpringBoot的系列教程，彻底扫平阻碍我们CURD的路障，适用于对Mongodb不了解或了解不够的小伙伴
+                  </p>
+                </div>
+          </div>
+        </a>
+
+      </td>
+
+      <td>
+
+
+        <a href="/spring-db/08.Redis" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"><i class="fa fa-star" style="color: #ff6600;"></i></i></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot Redis实战教程》</h5>
+                  <p class="card-text text-black">
+                    缓存神器Redis的基础 + 进阶教程，搭配实际业务场景的实战博文，彻底掌握redis的使用姿势
+                  </p>
+                </div>
+          </div>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <th></th>
+      <td>
+        <a href="/spring-mq/01.RabbitMQ" class="">
+          <div class="card border-primary-dark ">
+            <img
+              src="/imgs/wiki/influx.jpg"
+              class="card-img-top"
+              draggable="false"
+              style="padding: 2rem; max-height: 140px"/>
+              <i class="fa fa-star" style="color: #ff6600; margin: -1.5em 0 1em 1em;"><i class="fa fa-star" style="color: #ff6600;"></i></i>
+                <div class="card-body bg-primary-dark">
+                  <h5 class="card-title text-black section-head">《SpringBoot RabbitMQ》</h5>
+                  <p class="card-text text-black">
+                    消息队列RabbitMQ的基础 & 进阶教程，系列文章教你在生产中使用消息队列的各种姿势
+                  </p>
+                </div>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
