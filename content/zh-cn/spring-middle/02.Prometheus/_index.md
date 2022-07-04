@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 整合Prometheus监控"
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+接入Prometheus，搭建应用监控体系
 
 {{% /pageinfo %}}

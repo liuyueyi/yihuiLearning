@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot RabbitMQ"
+weight: 1
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+消息队列RabbitMQ的基础 & 进阶教程，系列文章教你在生产中使用消息队列的各种姿势
 
 {{% /pageinfo %}}

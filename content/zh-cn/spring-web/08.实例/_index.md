@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Web实战演示"
+weight: 8
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+收录web系列相关的实战文档，每一篇博文都对应一个真实的业务场景，从0到1，手把手教你如何完美支撑业务需求
 
 {{% /pageinfo %}}

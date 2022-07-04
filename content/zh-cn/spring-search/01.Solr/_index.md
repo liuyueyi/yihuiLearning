@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Solr"
+weight: 1
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot整合Solr，支撑搜索业务场景
 
 {{% /pageinfo %}}

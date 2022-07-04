@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Web踩坑日记簿"
+weight: 9
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+人在河边走，哪有不湿鞋，这里的每一篇文章都是一个有血有泪的真实故事啊
 
 {{% /pageinfo %}}

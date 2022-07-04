@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 国际化"
+weight: 5
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+手把手教你国际化配置支持，多语言开发者的福音
 
 {{% /pageinfo %}}

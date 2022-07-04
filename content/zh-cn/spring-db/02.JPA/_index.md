@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Hibernate学习手册"
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+据说国外的大仓更喜欢使用Hibernate操作数据库，本手册将手把手教你完全使用Hibernate/JPA方式支撑业务需求
 
 {{% /pageinfo %}}

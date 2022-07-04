@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot H2Database"
+weight: 1
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot整合H2Database，实现老生常谈的CURD
 
 {{% /pageinfo %}}

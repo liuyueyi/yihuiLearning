@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 整合Email"
+weight: 1
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot无障碍使用邮箱服务
 
 {{% /pageinfo %}}

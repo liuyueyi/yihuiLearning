@@ -23,13 +23,23 @@
         {{ end }}
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        {{ if not .Site.Params.ui.footer_about_disable }}
+          {{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
+       {{ end }}
+
         {{ with .Site.Params.copyright }}<small class="">&copy; {{ now.Year}} {{ .}} {{ T "footer_all_rights_reserved" }}</small>{{ end }}
         <!-- {{ with .Site.Params.privacy_policy }}<small class="ml-1"><a href="{{ . }}" target="_blank" rel="noopener"> | {{ T "footer_privacy_policy" }}</a> </small>{{ end }} -->
         <small> | <a href="https://beian.miit.gov.cn/" target="_blank"> 鄂ICP备18017282号</a></small>
-	{{ if not .Site.Params.ui.footer_about_disable }}
-		{{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
-	{{ end }}
+	
+
       </div>
+      
+      
+    </div>
+    <!-- 添加计数统计 -->
+    <div class="d-flex justify-content-center" style="margin-top: -2em;">
+        <div id='self_count_cnt' class=""></div>
+        <script type="text/javascript" src="/assets/js/count.js"></script>
     </div>
   </div>
 </footer>

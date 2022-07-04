@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 响应式网络交互WebClient"
+weight: 4
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+响应式编程大行其道的当下，WebClient大大简化了交互的复杂性，如有响应式需求场景，好好读一下这个系列绝不会有错
 
 {{% /pageinfo %}}

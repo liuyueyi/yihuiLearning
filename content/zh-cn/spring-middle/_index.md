@@ -1,10 +1,10 @@
 
 ---
-title: "SpringBoot入门手册"
+title: "SpringBoot 整合各大开源系列产品"
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+记录SpringBoot接入邮件、zk、Prometheus监控、oss等与常见业务非强相关的系列教程
 
 {{% /pageinfo %}}

@@ -1,10 +1,8 @@
 
 ---
-title: "SpringBoot入门手册"
+title: "SpringBoot搜索系列教程"
 ---
 
 {{% pageinfo %}}
-
-SpringBoot基础系列教程
-
+Solr, ElasticSearch等搜索系列教程文档
 {{% /pageinfo %}}

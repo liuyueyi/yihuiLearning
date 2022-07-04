@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Redis实战教程"
+weight: 8
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+缓存神器Redis的基础 + 进阶教程，搭配实际业务场景的实战博文，彻底掌握redis的使用姿势
 
 {{% /pageinfo %}}

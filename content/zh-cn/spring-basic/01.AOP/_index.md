@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot AOP专题"
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+教你如何玩转Spring的两大特性之一AOP，掌握工作中的代码整洁之道
 
 {{% /pageinfo %}}

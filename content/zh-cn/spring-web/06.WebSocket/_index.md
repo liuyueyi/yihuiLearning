@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 长连接WebSocket"
+weight: 6
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+长连接websocket从0到1实战
 
 {{% /pageinfo %}}

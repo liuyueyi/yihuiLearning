@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot ElasticSearch"
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot整合ElasticSearch，支撑搜索全业务场景
 
 {{% /pageinfo %}}

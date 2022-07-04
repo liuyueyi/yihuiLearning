@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Web花样返回"
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+后端接口返回什么，json串？xml文档？html网页？文件？还是重定向？
 
 {{% /pageinfo %}}

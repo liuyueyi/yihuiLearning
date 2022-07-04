@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot Web三剑客"
+weight: 7
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+Servlet, Filter, Listener web三剑客的知识点汇总
 
 {{% /pageinfo %}}

@@ -1,10 +1,10 @@
 
 ---
-title: "SpringBoot入门手册"
+title: "SpringBoot Security"
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringSecurity安全管理
 
 {{% /pageinfo %}}

@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 整合Docker"
+weight: 4
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot配置docker，实现容器化管理部署
 
 {{% /pageinfo %}}

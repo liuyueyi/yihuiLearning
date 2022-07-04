@@ -1,10 +1,11 @@
 
 ---
 title: "SpringBoot基础配置"
+weight: 1
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+我们常说Spring约定大于配置，那么约定是什么？配置在哪里？怎么读取呢？多环境配置又改如何管理呢？本系列教程将为您一一解惑
 
 {{% /pageinfo %}}

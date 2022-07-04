@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 响应式编程WebFlux"
+weight: 5
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+WebFlux系列博文
 
 {{% /pageinfo %}}

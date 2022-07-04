@@ -1,10 +1,10 @@
 
 ---
-title: "SpringBoot入门手册"
+title: "SpringBoot数据库系列教程"
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+SpringBoot无障碍接入各类数据库，如h2,MySql,MongoDb,Redis,InfluxDB等
 
 {{% /pageinfo %}}

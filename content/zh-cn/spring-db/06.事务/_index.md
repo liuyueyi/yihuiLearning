@@ -1,10 +1,11 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "SpringBoot 事务全解"
+weight: 6
 ---
 
 {{% pageinfo %}}
 
-SpringBoot基础系列教程
+进阶知识点，如何在Spring容器中使用事务？看这个系列就完了
 
 {{% /pageinfo %}}
