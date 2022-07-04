@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 整合Email"
+title: "Email"
 weight: 1
 ---
 

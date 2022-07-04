@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 整合Zookeeper"
+title: "Zookeeper"
 weight: 3
 ---
 

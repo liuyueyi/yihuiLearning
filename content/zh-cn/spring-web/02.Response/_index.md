@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Web花样返回"
+title: "Web花样返回"
 weight: 2
 ---
 

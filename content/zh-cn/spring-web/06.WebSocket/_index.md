@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 长连接WebSocket"
+title: "WebSocket"
 weight: 6
 ---
 

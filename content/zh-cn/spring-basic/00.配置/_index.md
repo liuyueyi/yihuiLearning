@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot基础配置"
+title: "基础配置"
 weight: 1
 ---
 

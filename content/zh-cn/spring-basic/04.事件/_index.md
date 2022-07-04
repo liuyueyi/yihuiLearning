@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 消息事件"
+title: "消息事件"
 weight: 4
 ---
 

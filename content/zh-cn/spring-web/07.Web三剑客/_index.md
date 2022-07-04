@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Web三剑客"
+title: "Web三剑客"
 weight: 7
 ---
 

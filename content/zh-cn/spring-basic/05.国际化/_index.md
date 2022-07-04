@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 国际化"
+title: "国际化"
 weight: 5
 ---
 

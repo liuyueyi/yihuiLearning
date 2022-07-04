@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 整合Prometheus监控"
+title: "Prometheus"
 weight: 2
 ---
 

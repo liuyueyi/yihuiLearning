@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Bean工厂"
+title: "Bean工厂"
 ---
 
 {{% pageinfo %}}

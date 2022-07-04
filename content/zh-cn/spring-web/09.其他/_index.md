@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Web踩坑日记簿"
+title: "Web踩坑日记簿"
 weight: 9
 ---
 

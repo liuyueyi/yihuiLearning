@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Mybatis零基础教程"
+title: "Mybatis"
 weight: 5
 ---
 

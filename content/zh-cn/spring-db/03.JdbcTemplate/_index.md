@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot JdbcTemplate操作手册"
+title: "JdbcTemplate"
 weight: 3
 ---
 

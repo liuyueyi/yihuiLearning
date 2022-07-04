@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot AOP专题"
+title: "AOP专题"
 weight: 2
 ---
 

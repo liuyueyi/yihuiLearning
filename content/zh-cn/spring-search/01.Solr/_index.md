@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Solr"
+title: "Solr"
 weight: 1
 ---
 

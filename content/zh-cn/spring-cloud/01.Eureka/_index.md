@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Eureka注册中心"
+title: "Eureka"
 weight: 1
 ---
 

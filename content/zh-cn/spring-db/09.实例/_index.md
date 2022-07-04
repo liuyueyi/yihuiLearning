@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 实战演练"
+title: "实战演练"
 weight: 9
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot H2Database"
+title: "H2Database"
 weight: 1
 ---
 

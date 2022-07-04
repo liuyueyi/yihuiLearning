@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Web请求知识点大全"
+title: "Web请求知识点"
 weight: 1
 ---
 

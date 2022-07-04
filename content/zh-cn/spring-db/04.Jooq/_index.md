@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Jooq操作手册"
+title: "Jooq"
 weight: 4
 ---
 

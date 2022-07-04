@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Redis实战教程"
+title: "Redis实战"
 weight: 8
 ---
 

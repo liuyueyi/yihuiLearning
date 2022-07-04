@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot SpEL表达式"
+title: "SpEL表达式"
 weight: 3
 ---
 

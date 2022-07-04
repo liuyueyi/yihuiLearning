@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 响应式编程WebFlux"
+title: "WebFlux"
 weight: 5
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Web实战演示"
+title: "Web实战演示"
 weight: 8
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Hibernate学习手册"
+title: "Hibernate"
 weight: 2
 ---
 

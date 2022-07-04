@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Feign"
+title: "Feign"
 weight: 2
 ---
 

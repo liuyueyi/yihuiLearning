@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot ElasticSearch"
+title: "ElasticSearch"
 weight: 2
 ---
 

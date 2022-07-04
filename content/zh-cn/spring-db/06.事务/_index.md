@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 事务全解"
+title: "事务"
 weight: 6
 ---
 

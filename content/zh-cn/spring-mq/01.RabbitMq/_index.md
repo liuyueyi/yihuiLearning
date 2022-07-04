@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot RabbitMQ"
+title: "RabbitMQ"
 weight: 1
 ---
 

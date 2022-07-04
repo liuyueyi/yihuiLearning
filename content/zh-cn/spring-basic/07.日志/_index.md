@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot 日志"
+title: "日志"
 weight: 7
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot MongoDB系列教程"
+title: "MongoDB"
 weight: 7
 ---
 

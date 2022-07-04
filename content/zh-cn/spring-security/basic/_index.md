@@ -1,6 +1,6 @@
 
 ---
-title: "SpringBoot Security基础教程"
+title: "SpringSecurity"
 weight: 1
 ---
 
