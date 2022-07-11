@@ -125,7 +125,7 @@ github_project_repo = "https://github.com/liuyueyi/yihuiLearning"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "6eb21d4480dc4e66e"
+# gcs_engine_id = "6eb21d4480dc4e66e"
 
 # Enable Algolia DocSearch
 algolia_docsearch = true

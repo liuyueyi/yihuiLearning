@@ -1,5 +1,5 @@
 ---
-title: "SpringBoot WEB系列教程"
+title: "从0到1搭建一个Java版社区"
 ---
 
 {{% pageinfo %}}
