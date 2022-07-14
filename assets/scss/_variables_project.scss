@@ -32,3 +32,34 @@ Add styles or override variables from the theme here.
     color: #e96900;
     font-size: 1.4em;
 }
+
+.td-sidebar-nav-active-item {
+	color: #ffa630;
+	span {
+		color: #ffa630;
+	}
+}
+
+.td-sidebar-link__section {
+	font-size: 1em;
+	font-weight: 700;
+	padding: 0.15rem 1.5rem 0.15rem 1.25rem;
+	border-left: 0.25rem solid transparent;
+
+	.td-sidebar-nav-active-item {
+		color: #ffa630;
+		span {
+			color: #ffa630;
+		}
+	}
+	span {
+		color: #2c3e50;
+	}
+}
+
+.td-sidebar-link__page {
+	font-size: 0.9em;
+	padding: 0.15rem 1.5rem 0.15rem 1.25rem;
+	border-left: 0.25rem solid transparent;
+}
+

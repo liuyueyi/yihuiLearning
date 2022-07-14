@@ -3,7 +3,7 @@
   <head>
     {{ partial "head.html" . }}
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    <link rel="stylesheet" type="text/css" href="{{ "/css/swagger-ui.css" | relURL }}">
+    
   </head>
   <body class="td-{{ .Kind }}">
     <header>
@@ -16,9 +16,7 @@
             {{ partial "sidebar.html" . }}
           </aside>
           <aside class="d-none d-xl-block col-xl-2 td-sidebar-toc d-print-none">
-            {{ partial "page-meta-links.html" . }}
             {{ partial "toc.html" . }}
-            {{ partial "taxonomy_terms_clouds.html" . }}
           </aside>
           <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
             {{ if not .Site.Params.ui.breadcrumb_disable }}{{ partial "breadcrumb.html" . }}{{ end }}
