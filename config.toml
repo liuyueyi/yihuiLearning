@@ -38,6 +38,7 @@ pygmentsUseClassic = false
 # See https://help.farbox.com/pygments.html
 pygmentsStyle = "tango"
 
+
 # Configure how URLs look like per section.
 [permalinks]
 blog = "/:section/:year/:month/:day/:slug/"
@@ -166,6 +167,12 @@ no = 'Sorry to hear that. Please <a href="https://github.com/liuyueyi/yihuiLearn
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = true
+
+[sitemap]
+  host = "https://hhui.top"
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
