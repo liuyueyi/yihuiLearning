@@ -1,5 +1,5 @@
 ---
-title: 二维码(qrcode)
+title: 二维码插件
 weight: 2
 ---
 

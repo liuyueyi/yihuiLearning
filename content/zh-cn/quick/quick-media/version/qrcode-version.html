@@ -1,0 +1,212 @@
+---
+title: "qrcode plugin版本历史"
+---
+
+<div class="content">
+    <ul class="timeline">
+        
+        <li>
+            <div class="timeline-time">
+            	<span>2022-08</span>
+            </div>
+            <div class="timeline-content">
+                <h4>3.0.0</h4>
+                	- 3.0版本，全线依赖升级
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2021-06-09</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.6.1</h4>
+                	- 修复流无法关闭bug
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2021-03-02</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.6.0</h4>
+                	- 升级base-plugin<br/>
+                	- fix: #88<br/>
+                	- feature: 新增 MIN_RECT 样式二维码<br/>
+                	- feature: 调整二维码识别策略<br/>
+                	- feature: 图片渲染时，相同位置支持多图随机选择
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2021-01-24</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.5.4</h4>
+                	- 修复前置渲染图为gif时的处理逻辑问题<br/>
+                	- 前置渲染模板，`startX, startY` 扩展支持<br/>
+                	- 负数配置，表示前置渲染模板在二维码上的偏移量<br/>
+                	- 整数配置，表示二维码在前置渲染模板上的偏移量<br/>
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2021-01-14</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.5.3</h4>
+                	- 前置渲染图新增
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-11-13</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.5.2</h4>
+                	- 二维码支持圆角设置<br/>
+                	- 二维码背景图圆角/圆形设置支持<br/>
+
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-10-30</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.5.1</h4>
+                	- fix 非矩形logo渲染
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-09-15</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.5.0</h4>
+                	- 移除lombok依赖
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-07-04</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.4.2</h4>
+                	- 修复logo锯齿严重问题
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-06-29</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.4.1</h4>
+                	- 中文二维码新增渲染模式，支持随机 + 顺序模式<br/>
+                	- 添加Font缓存，避免重复构建<br/>
+                	- 添加背景为文字的实例，详情参考二维码插件使用手册
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-06-24</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.4</h4>
+                	- 升级collections-utils<br/>
+                	- 中文二维码支持<br/>
+                	- 圆形logo支持
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2020-04-29</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.3</h4>
+                	<font  color="red"><br/>
+                		- 探测图形，支持分别设置不同图片<br/>
+                		&nbsp;&nbsp;- 新增`detectImgLT`, `detectImgRT`, `detectImgLD`参数，分别表示左上，右上，左下三张探测图形的图片<br/>
+                		- 支持二维码后置背景图设置，即传统二维码中白色小方块用指定图片替换<br/>
+                		&nbsp;&nbsp;- `QrCodeGenWrapper.Builder#setDrawBgImg`设置资源图片<br/>
+                		- 图片渲染二维码时，支持指定图片中透明处的渲染逻辑<br/>
+                		&nbsp;&nbsp;- 透明度填充参数`diaphaneityFill`，如绘制二维码的图片中存在透明区域：<br/>
+                		&nbsp;&nbsp;&nbsp;&nbsp;- 若这个参数为true，则会用bgColor填充透明的区域；<br/>
+                		&nbsp;&nbsp;&nbsp;&nbsp;- 若为false，则透明区域依旧是透明的<br/>
+                	</font>
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2019-11-13</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.2</h4>
+                	- 工具类重命名，增加可读性<br/>
+                	- logo增加外围边框填充选项<br/>
+                	- 添加二维码生成示例demo:
+                	- <a href="https://github.com/liuyueyi/quick-media/blob/master/plugins/qrcode-plugin/src/test/java/com/github/hui/quick/plugin/test/QrCodeGenUserGuide.java">QrCodeGenUserGuide</a>
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2019-11-08</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.1</h4>
+                	- 支持动态二维码生成
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2019-06-20</span>
+            </div>
+            <div class="timeline-content">
+                <h4>2.0</h4>
+                	- 相对稳定正式包<br/>
+                	- 支持二维码解析<br/>
+                	- 支持二维码生成<br/>
+                	- 支持二维码大小，颜色，边框等基本功能指定<br/>
+                	- 支持二维码添加logo，背景<br/>
+                	- 支持几何形状替换二维码中的黑色方块<br/>
+                	- 支持图片替换二维码中的黑色方块
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2019-04-19</span>
+            </div>
+            <div class="timeline-content">
+                <h4>1.1</h4>
+                	- 项目结构调整，升级依赖结构
+            </div>
+        </li>
+
+        <li>
+            <div class="timeline-time">
+            	<span>2018-06-20</span>
+            </div>
+            <div class="timeline-content">
+                <h4>1.0</h4>
+                	- 第一个deom版<br/>
+                	- 基本的二维码生成、解析
+            </div>
+        </li>
+
+    </ul>
+</div>
+
