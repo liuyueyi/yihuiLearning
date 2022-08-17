@@ -4,6 +4,29 @@ Add styles or override variables from the theme here.
 
 */
 
+.td-content  {
+	margin-right: -20%;
+    p > img {
+    	text-align: center;
+    }
+    hr {
+    	margin-right: 20%;
+    }
+    .pageinfo {
+    	margin-right: 22%;
+    }
+
+	.code-toolbar {
+		margin-right: 20%;
+	}
+	.highlight {
+		.code-toolbar {
+			margin-right: 0%;
+		}	
+	}
+}
+
+
 .card-deck {
 	.bg-primary-dark {
 	    background-color: #30638e;
