@@ -58,9 +58,16 @@ Add styles or override variables from the theme here.
 }
 
 .td-sidebar-nav-active-item {
-	color: #ffa630;
+	color: var(--secondary);
+	padding-bottom: 0.2em;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(90deg,  var(--secondary) 100%, var(--secondary) 100%);
+	background-size: 80% 2px;
+	background-position: 20% 100%;
+	display: inline-block;
+
 	span {
-		color: #ffa630;
+		color: var(--secondary);
 	}
 }
 
@@ -68,12 +75,18 @@ Add styles or override variables from the theme here.
 	font-size: 1em;
 	font-weight: 700;
 	padding: 0.15rem 1.5rem 0.15rem 1.25rem;
-	border-left: 0.25rem solid transparent;
 
 	.td-sidebar-nav-active-item {
-		color: #ffa630;
+		color: var(--secondary);
+		padding-bottom: 0.2em;
+		background-repeat: no-repeat;
+    	background-image: linear-gradient(90deg,  var(--secondary) 100%, var(--secondary) 100%);
+    	background-size: 80% 2px;
+    	background-position: 20% 100%;
+    	display: inline-block;
+
 		span {
-			color: #ffa630;
+			color: var(--secondary);
 		}
 	}
 	span {

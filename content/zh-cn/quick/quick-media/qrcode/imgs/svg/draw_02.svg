@@ -4,13 +4,13 @@
 	<symbol id="bg" viewBox="0 0 1024 1024" width="200" height="200"><path d="M512 512m-160 0a160 160 0 1 0 320 0 160 160 0 1 0-320 0Z" fill="#eeeeee" p-id="6725"></path></symbol>
 	<symbol id="pre" viewBox="0 0 1024 1024" width="200" height="200"><path d="M512 512m-160 0a160 160 0 1 0 320 0 160 160 0 1 0-320 0Z" fill="#000000" p-id="6725"></path></symbol>
 	<g id="qr">
-		<rect fill="null" height="12" width="12" y="28" x="28"/>
-		<rect fill="null" height="12" width="12" y="40" x="28"/>
-		<rect fill="null" height="12" width="12" y="52" x="28"/>
-		<rect fill="null" height="12" width="12" y="64" x="28"/>
-		<rect fill="null" height="12" width="12" y="76" x="28"/>
-		<rect fill="null" height="12" width="12" y="88" x="28"/>
-		<rect fill="null" height="12" width="12" y="100" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="28"/>
 		<use xlink:href="#bg" x="28" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="28" y="124" width="12" height="12"/>
 		<use xlink:href="#bg" x="28" y="148" width="12" height="12"/>
@@ -26,15 +26,15 @@
 		<use xlink:href="#bg" x="28" y="292" width="12" height="12"/>
 		<use xlink:href="#bg" x="28" y="316" width="12" height="12"/>
 		<use xlink:href="#bg" x="28" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="28"/>
-		<rect fill="null" height="12" width="12" y="400" x="28"/>
-		<rect fill="null" height="12" width="12" y="412" x="28"/>
-		<rect fill="null" height="12" width="12" y="424" x="28"/>
-		<rect fill="null" height="12" width="12" y="436" x="28"/>
-		<rect fill="null" height="12" width="12" y="448" x="28"/>
-		<rect fill="null" height="12" width="12" y="460" x="28"/>
-		<rect fill="null" height="12" width="12" y="28" x="40"/>
-		<rect fill="null" height="12" width="12" y="100" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="400" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="448" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="40"/>
 		<use xlink:href="#bg" x="40" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="40" y="124" width="12" height="12"/>
 		<use xlink:href="#bg" x="40" y="136" width="12" height="12"/>
@@ -52,13 +52,13 @@
 		<use xlink:href="#bg" x="40" y="352" width="12" height="12"/>
 		<use xlink:href="#bg" x="40" y="364" width="12" height="12"/>
 		<use xlink:href="#bg" x="40" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="40"/>
-		<rect fill="null" height="12" width="12" y="460" x="40"/>
-		<rect fill="null" height="12" width="12" y="28" x="52"/>
-		<rect fill="null" height="12" width="12" y="52" x="52"/>
-		<rect fill="null" height="12" width="12" y="64" x="52"/>
-		<rect fill="null" height="12" width="12" y="76" x="52"/>
-		<rect fill="null" height="12" width="12" y="100" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="52"/>
 		<use xlink:href="#bg" x="52" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="52" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="52" y="160" width="12" height="12"/>
@@ -70,16 +70,16 @@
 		<use xlink:href="#bg" x="52" y="316" width="12" height="12"/>
 		<use xlink:href="#bg" x="52" y="328" width="12" height="12"/>
 		<use xlink:href="#bg" x="52" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="52"/>
-		<rect fill="null" height="12" width="12" y="412" x="52"/>
-		<rect fill="null" height="12" width="12" y="424" x="52"/>
-		<rect fill="null" height="12" width="12" y="436" x="52"/>
-		<rect fill="null" height="12" width="12" y="460" x="52"/>
-		<rect fill="null" height="12" width="12" y="28" x="64"/>
-		<rect fill="null" height="12" width="12" y="52" x="64"/>
-		<rect fill="null" height="12" width="12" y="64" x="64"/>
-		<rect fill="null" height="12" width="12" y="76" x="64"/>
-		<rect fill="null" height="12" width="12" y="100" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="64"/>
 		<use xlink:href="#bg" x="64" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="64" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="64" y="148" width="12" height="12"/>
@@ -93,16 +93,16 @@
 		<use xlink:href="#bg" x="64" y="340" width="12" height="12"/>
 		<use xlink:href="#bg" x="64" y="364" width="12" height="12"/>
 		<use xlink:href="#bg" x="64" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="64"/>
-		<rect fill="null" height="12" width="12" y="412" x="64"/>
-		<rect fill="null" height="12" width="12" y="424" x="64"/>
-		<rect fill="null" height="12" width="12" y="436" x="64"/>
-		<rect fill="null" height="12" width="12" y="460" x="64"/>
-		<rect fill="null" height="12" width="12" y="28" x="76"/>
-		<rect fill="null" height="12" width="12" y="52" x="76"/>
-		<rect fill="null" height="12" width="12" y="64" x="76"/>
-		<rect fill="null" height="12" width="12" y="76" x="76"/>
-		<rect fill="null" height="12" width="12" y="100" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="76"/>
 		<use xlink:href="#bg" x="76" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="76" y="220" width="12" height="12"/>
 		<use xlink:href="#bg" x="76" y="244" width="12" height="12"/>
@@ -112,13 +112,13 @@
 		<use xlink:href="#bg" x="76" y="304" width="12" height="12"/>
 		<use xlink:href="#bg" x="76" y="316" width="12" height="12"/>
 		<use xlink:href="#bg" x="76" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="76"/>
-		<rect fill="null" height="12" width="12" y="412" x="76"/>
-		<rect fill="null" height="12" width="12" y="424" x="76"/>
-		<rect fill="null" height="12" width="12" y="436" x="76"/>
-		<rect fill="null" height="12" width="12" y="460" x="76"/>
-		<rect fill="null" height="12" width="12" y="28" x="88"/>
-		<rect fill="null" height="12" width="12" y="100" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="88"/>
 		<use xlink:href="#bg" x="88" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="88" y="124" width="12" height="12"/>
 		<use xlink:href="#bg" x="88" y="136" width="12" height="12"/>
@@ -132,15 +132,15 @@
 		<use xlink:href="#bg" x="88" y="352" width="12" height="12"/>
 		<use xlink:href="#bg" x="88" y="364" width="12" height="12"/>
 		<use xlink:href="#bg" x="88" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="88"/>
-		<rect fill="null" height="12" width="12" y="460" x="88"/>
-		<rect fill="null" height="12" width="12" y="28" x="100"/>
-		<rect fill="null" height="12" width="12" y="40" x="100"/>
-		<rect fill="null" height="12" width="12" y="52" x="100"/>
-		<rect fill="null" height="12" width="12" y="64" x="100"/>
-		<rect fill="null" height="12" width="12" y="76" x="100"/>
-		<rect fill="null" height="12" width="12" y="88" x="100"/>
-		<rect fill="null" height="12" width="12" y="100" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="100"/>
 		<use xlink:href="#bg" x="100" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="100" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="100" y="160" width="12" height="12"/>
@@ -153,13 +153,13 @@
 		<use xlink:href="#bg" x="100" y="328" width="12" height="12"/>
 		<use xlink:href="#bg" x="100" y="352" width="12" height="12"/>
 		<use xlink:href="#bg" x="100" y="376" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="388" x="100"/>
-		<rect fill="null" height="12" width="12" y="400" x="100"/>
-		<rect fill="null" height="12" width="12" y="412" x="100"/>
-		<rect fill="null" height="12" width="12" y="424" x="100"/>
-		<rect fill="null" height="12" width="12" y="436" x="100"/>
-		<rect fill="null" height="12" width="12" y="448" x="100"/>
-		<rect fill="null" height="12" width="12" y="460" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="400" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="448" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="100"/>
 		<use xlink:href="#bg" x="112" y="28" width="12" height="12"/>
 		<use xlink:href="#bg" x="112" y="40" width="12" height="12"/>
 		<use xlink:href="#bg" x="112" y="52" width="12" height="12"/>
@@ -601,13 +601,13 @@
 		<use xlink:href="#bg" x="376" y="400" width="12" height="12"/>
 		<use xlink:href="#bg" x="376" y="424" width="12" height="12"/>
 		<use xlink:href="#bg" x="376" y="436" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="388"/>
-		<rect fill="null" height="12" width="12" y="40" x="388"/>
-		<rect fill="null" height="12" width="12" y="52" x="388"/>
-		<rect fill="null" height="12" width="12" y="64" x="388"/>
-		<rect fill="null" height="12" width="12" y="76" x="388"/>
-		<rect fill="null" height="12" width="12" y="88" x="388"/>
-		<rect fill="null" height="12" width="12" y="100" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="388"/>
 		<use xlink:href="#bg" x="388" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="388" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="388" y="160" width="12" height="12"/>
@@ -619,8 +619,8 @@
 		<use xlink:href="#bg" x="388" y="376" width="12" height="12"/>
 		<use xlink:href="#bg" x="388" y="400" width="12" height="12"/>
 		<use xlink:href="#bg" x="388" y="460" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="400"/>
-		<rect fill="null" height="12" width="12" y="100" x="400"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="400"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="400"/>
 		<use xlink:href="#bg" x="400" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="400" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="400" y="172" width="12" height="12"/>
@@ -636,11 +636,11 @@
 		<use xlink:href="#bg" x="400" y="400" width="12" height="12"/>
 		<use xlink:href="#bg" x="400" y="448" width="12" height="12"/>
 		<use xlink:href="#bg" x="400" y="460" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="412"/>
-		<rect fill="null" height="12" width="12" y="52" x="412"/>
-		<rect fill="null" height="12" width="12" y="64" x="412"/>
-		<rect fill="null" height="12" width="12" y="76" x="412"/>
-		<rect fill="null" height="12" width="12" y="100" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="412"/>
 		<use xlink:href="#bg" x="412" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="412" y="124" width="12" height="12"/>
 		<use xlink:href="#bg" x="412" y="136" width="12" height="12"/>
@@ -655,11 +655,11 @@
 		<use xlink:href="#bg" x="412" y="316" width="12" height="12"/>
 		<use xlink:href="#bg" x="412" y="352" width="12" height="12"/>
 		<use xlink:href="#bg" x="412" y="460" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="424"/>
-		<rect fill="null" height="12" width="12" y="52" x="424"/>
-		<rect fill="null" height="12" width="12" y="64" x="424"/>
-		<rect fill="null" height="12" width="12" y="76" x="424"/>
-		<rect fill="null" height="12" width="12" y="100" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="424"/>
 		<use xlink:href="#bg" x="424" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="424" y="124" width="12" height="12"/>
 		<use xlink:href="#bg" x="424" y="148" width="12" height="12"/>
@@ -675,11 +675,11 @@
 		<use xlink:href="#bg" x="424" y="376" width="12" height="12"/>
 		<use xlink:href="#bg" x="424" y="424" width="12" height="12"/>
 		<use xlink:href="#bg" x="424" y="460" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="436"/>
-		<rect fill="null" height="12" width="12" y="52" x="436"/>
-		<rect fill="null" height="12" width="12" y="64" x="436"/>
-		<rect fill="null" height="12" width="12" y="76" x="436"/>
-		<rect fill="null" height="12" width="12" y="100" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="436"/>
 		<use xlink:href="#bg" x="436" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="436" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="436" y="160" width="12" height="12"/>
@@ -695,8 +695,8 @@
 		<use xlink:href="#bg" x="436" y="412" width="12" height="12"/>
 		<use xlink:href="#bg" x="436" y="424" width="12" height="12"/>
 		<use xlink:href="#bg" x="436" y="460" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="448"/>
-		<rect fill="null" height="12" width="12" y="100" x="448"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="448"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="448"/>
 		<use xlink:href="#bg" x="448" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="448" y="160" width="12" height="12"/>
 		<use xlink:href="#bg" x="448" y="172" width="12" height="12"/>
@@ -709,13 +709,13 @@
 		<use xlink:href="#bg" x="448" y="352" width="12" height="12"/>
 		<use xlink:href="#bg" x="448" y="400" width="12" height="12"/>
 		<use xlink:href="#bg" x="448" y="436" width="12" height="12"/>
-		<rect fill="null" height="12" width="12" y="28" x="460"/>
-		<rect fill="null" height="12" width="12" y="40" x="460"/>
-		<rect fill="null" height="12" width="12" y="52" x="460"/>
-		<rect fill="null" height="12" width="12" y="64" x="460"/>
-		<rect fill="null" height="12" width="12" y="76" x="460"/>
-		<rect fill="null" height="12" width="12" y="88" x="460"/>
-		<rect fill="null" height="12" width="12" y="100" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="460"/>
 		<use xlink:href="#bg" x="460" y="112" width="12" height="12"/>
 		<use xlink:href="#bg" x="460" y="136" width="12" height="12"/>
 		<use xlink:href="#bg" x="460" y="148" width="12" height="12"/>

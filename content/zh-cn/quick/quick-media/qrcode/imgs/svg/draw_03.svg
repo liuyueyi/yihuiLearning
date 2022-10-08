@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+
+	<g id="qr">
+		<rect fill="#ffffffff" height="500" width="500" y="0" x="0"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="400" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="448" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="28"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="400" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="424" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="448" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="100"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="400"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="400"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="448"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="448"/>
+		<rect fill="#000000ff" height="12" width="12" y="28" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="64" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="136" x="28"/>
+		<polygon points="34.0,172 28,184.0 40.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="34.0,244.6 30.4,255.88 39.4,248.68 28.6,248.68 37.6,255.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="34.0,304 28,316.0 40.0,316.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="34" cy="334" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="340" x="28"/>
+		<polygon points="34.0,352.6 30.4,363.88 39.4,356.68 28.6,356.68 37.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="34" cy="370" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="196" x="40"/>
+		<polygon points="46.0,208.6 42.4,219.88 51.4,212.68 40.6,212.68 49.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="46.0,244.6 42.4,255.88 51.4,248.68 40.6,248.68 49.6,255.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="46.0,292 40,304.0 52.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="46.0,304 40,316.0 52.0,316.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="328" x="40"/>
+		<rect fill="#000000ff" height="12" width="12" y="124" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="148" x="52"/>
+		<circle cx="58" cy="178" r="6" fill="#000000ff"/>
+		<polygon points="58.0,196.6 54.4,207.88 63.4,200.68 52.6,200.68 61.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="58.0,232 52,244.0 64.0,244.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="256" x="52"/>
+		<polygon points="58.0,268.6 54.4,279.88 63.4,272.68 52.6,272.68 61.6,279.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="58" cy="286" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="292" x="52"/>
+		<polygon points="58.0,340.6 54.4,351.88 63.4,344.68 52.6,344.68 61.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="58.0,352.6 54.4,363.88 63.4,356.68 52.6,356.68 61.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="364" x="52"/>
+		<rect fill="#000000ff" height="12" width="12" y="124" x="64"/>
+		<polygon points="70.0,172.6 66.4,183.88 75.4,176.68 64.6,176.68 73.6,183.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="70.0,184.6 66.4,195.88 75.4,188.68 64.6,188.68 73.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="70.0,196.6 66.4,207.88 75.4,200.68 64.6,200.68 73.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="70.0,208.6 66.4,219.88 75.4,212.68 64.6,212.68 73.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="232" x="64"/>
+		<rect fill="#000000ff" height="12" width="12" y="244" x="64"/>
+		<circle cx="70" cy="274" r="6" fill="#000000ff"/>
+		<polygon points="70.0,328.6 66.4,339.88 75.4,332.68 64.6,332.68 73.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="70.0,352 64,364.0 76.0,364.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="82.0,124 76,136.0 88.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="136" x="76"/>
+		<rect fill="#000000ff" height="12" width="12" y="148" x="76"/>
+		<polygon points="82.0,160 76,172.0 88.0,172.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="172" x="76"/>
+		<polygon points="82.0,184 76,196.0 88.0,196.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="82.0,196 76,208.0 88.0,208.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="82" cy="214" r="6" fill="#000000ff"/>
+		<polygon points="82.0,232 76,244.0 88.0,244.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="82" cy="298" r="6" fill="#000000ff"/>
+		<polygon points="82.0,328.6 78.4,339.88 87.4,332.68 76.6,332.68 85.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="82.0,340.6 78.4,351.88 87.4,344.68 76.6,344.68 85.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="82.0,352.6 78.4,363.88 87.4,356.68 76.6,356.68 85.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="82" cy="370" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="148" x="88"/>
+		<polygon points="94.0,160 88,172.0 100.0,172.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="184" x="88"/>
+		<polygon points="94.0,196.6 90.4,207.88 99.4,200.68 88.6,200.68 97.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="208" x="88"/>
+		<polygon points="94.0,220.6 90.4,231.88 99.4,224.68 88.6,224.68 97.6,231.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="232" x="88"/>
+		<rect fill="#000000ff" height="12" width="12" y="280" x="88"/>
+		<circle cx="94" cy="310" r="6" fill="#000000ff"/>
+		<polygon points="94.0,328.6 90.4,339.88 99.4,332.68 88.6,332.68 97.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="106.0,124 100,136.0 112.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="106" cy="154" r="6" fill="#000000ff"/>
+		<polygon points="106.0,172 100,184.0 112.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="106" cy="202" r="6" fill="#000000ff"/>
+		<polygon points="106.0,220 100,232.0 112.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="106.0,244 100,256.0 112.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="106.0,268 100,280.0 112.0,280.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="106" cy="298" r="6" fill="#000000ff"/>
+		<polygon points="106.0,316.6 102.4,327.88 111.4,320.68 100.6,320.68 109.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="106.0,340 100,352.0 112.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="364" x="100"/>
+		<polygon points="118.0,148 112,160.0 124.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="118.0,208.6 114.4,219.88 123.4,212.68 112.6,212.68 121.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="118.0,244 112,256.0 124.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="268" x="112"/>
+		<rect fill="#000000ff" height="12" width="12" y="304" x="112"/>
+		<polygon points="118.0,328 112,340.0 124.0,340.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="352" x="112"/>
+		<rect fill="#000000ff" height="12" width="12" y="364" x="112"/>
+		<polygon points="130.0,28.6 126.4,39.88 135.4,32.68 124.6,32.68 133.6,39.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="130" cy="46" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="52" x="124"/>
+		<rect fill="#000000ff" height="12" width="12" y="88" x="124"/>
+		<polygon points="130.0,100 124,112.0 136.0,112.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="130" cy="118" r="6" fill="#000000ff"/>
+		<polygon points="130.0,124.6 126.4,135.88 135.4,128.68 124.6,128.68 133.6,135.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,148 124,160.0 136.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="172" x="124"/>
+		<polygon points="130.0,196.6 126.4,207.88 135.4,200.68 124.6,200.68 133.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="208" x="124"/>
+		<circle cx="130" cy="226" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="232" x="124"/>
+		<circle cx="130" cy="250" r="6" fill="#000000ff"/>
+		<polygon points="130.0,256.6 126.4,267.88 135.4,260.68 124.6,260.68 133.6,267.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,316 124,328.0 136.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="130" cy="334" r="6" fill="#000000ff"/>
+		<polygon points="130.0,340 124,352.0 136.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,364.6 126.4,375.88 135.4,368.68 124.6,368.68 133.6,375.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,376 124,388.0 136.0,388.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,412.6 126.4,423.88 135.4,416.68 124.6,416.68 133.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,424 124,436.0 136.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="130.0,436.6 126.4,447.88 135.4,440.68 124.6,440.68 133.6,447.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,52 136,64.0 148.0,64.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,88 136,100.0 148.0,100.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,112.6 138.4,123.88 147.4,116.68 136.6,116.68 145.6,123.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="136" x="136"/>
+		<circle cx="142" cy="154" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="160" x="136"/>
+		<polygon points="142.0,172.6 138.4,183.88 147.4,176.68 136.6,176.68 145.6,183.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="196" x="136"/>
+		<polygon points="142.0,208.6 138.4,219.88 147.4,212.68 136.6,212.68 145.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,244 136,256.0 148.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="142" cy="274" r="6" fill="#000000ff"/>
+		<polygon points="142.0,280.6 138.4,291.88 147.4,284.68 136.6,284.68 145.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,292.6 138.4,303.88 147.4,296.68 136.6,296.68 145.6,303.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="142.0,304.6 138.4,315.88 147.4,308.68 136.6,308.68 145.6,315.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="316" x="136"/>
+		<polygon points="142.0,328.6 138.4,339.88 147.4,332.68 136.6,332.68 145.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="142" cy="382" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="136"/>
+		<rect fill="#000000ff" height="12" width="12" y="40" x="148"/>
+		<circle cx="154" cy="58" r="6" fill="#000000ff"/>
+		<polygon points="154.0,64 148,76.0 160.0,76.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,76.6 150.4,87.88 159.4,80.68 148.6,80.68 157.6,87.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="88" x="148"/>
+		<polygon points="154.0,100.6 150.4,111.88 159.4,104.68 148.6,104.68 157.6,111.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,112.6 150.4,123.88 159.4,116.68 148.6,116.68 157.6,123.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,124 148,136.0 160.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,148 148,160.0 160.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,160 148,172.0 160.0,172.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="154" cy="178" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="184" x="148"/>
+		<polygon points="154.0,208 148,220.0 160.0,220.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,220 148,232.0 160.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,244.6 150.4,255.88 159.4,248.68 148.6,248.68 157.6,255.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="154" cy="262" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="292" x="148"/>
+		<polygon points="154.0,316 148,328.0 160.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="328" x="148"/>
+		<circle cx="154" cy="370" r="6" fill="#000000ff"/>
+		<polygon points="154.0,376 148,388.0 160.0,388.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="154" cy="394" r="6" fill="#000000ff"/>
+		<polygon points="154.0,400.6 150.4,411.88 159.4,404.68 148.6,404.68 157.6,411.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,424 148,436.0 160.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="154.0,448 148,460.0 160.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="166.0,52.6 162.4,63.88 171.4,56.68 160.6,56.68 169.6,63.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="64" x="160"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="160"/>
+		<polygon points="166.0,112 160,124.0 172.0,124.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="124" x="160"/>
+		<polygon points="166.0,148.6 162.4,159.88 171.4,152.68 160.6,152.68 169.6,159.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="184" x="160"/>
+		<rect fill="#000000ff" height="12" width="12" y="196" x="160"/>
+		<rect fill="#000000ff" height="12" width="12" y="208" x="160"/>
+		<polygon points="166.0,256 160,268.0 172.0,268.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="166" cy="286" r="6" fill="#000000ff"/>
+		<polygon points="166.0,328.6 162.4,339.88 171.4,332.68 160.6,332.68 169.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="166.0,340.6 162.4,351.88 171.4,344.68 160.6,344.68 169.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="166.0,364 160,376.0 172.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="166.0,376.6 162.4,387.88 171.4,380.68 160.6,380.68 169.6,387.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="178" cy="46" r="6" fill="#000000ff"/>
+		<polygon points="178.0,52 172,64.0 184.0,64.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="64" x="172"/>
+		<polygon points="178.0,76.6 174.4,87.88 183.4,80.68 172.6,80.68 181.6,87.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="178" cy="106" r="6" fill="#000000ff"/>
+		<polygon points="178.0,112.6 174.4,123.88 183.4,116.68 172.6,116.68 181.6,123.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="178" cy="130" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="136" x="172"/>
+		<polygon points="178.0,184.6 174.4,195.88 183.4,188.68 172.6,188.68 181.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="196" x="172"/>
+		<polygon points="178.0,208.6 174.4,219.88 183.4,212.68 172.6,212.68 181.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="178.0,244.6 174.4,255.88 183.4,248.68 172.6,248.68 181.6,255.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="178" cy="298" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="304" x="172"/>
+		<polygon points="178.0,316 172,328.0 184.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="178.0,364 172,376.0 184.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="178.0,388 172,400.0 184.0,400.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="178.0,412.6 174.4,423.88 183.4,416.68 172.6,416.68 181.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="178.0,424 172,436.0 184.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="436" x="172"/>
+		<polygon points="178.0,448 172,460.0 184.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="178" cy="466" r="6" fill="#000000ff"/>
+		<circle cx="190" cy="82" r="6" fill="#000000ff"/>
+		<circle cx="190" cy="130" r="6" fill="#000000ff"/>
+		<polygon points="190.0,136 184,148.0 196.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="160" x="184"/>
+		<circle cx="190" cy="178" r="6" fill="#000000ff"/>
+		<polygon points="190.0,208 184,220.0 196.0,220.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="190" cy="226" r="6" fill="#000000ff"/>
+		<polygon points="190.0,244.6 186.4,255.88 195.4,248.68 184.6,248.68 193.6,255.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="190.0,256.6 186.4,267.88 195.4,260.68 184.6,260.68 193.6,267.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="268" x="184"/>
+		<rect fill="#000000ff" height="12" width="12" y="280" x="184"/>
+		<circle cx="190" cy="298" r="6" fill="#000000ff"/>
+		<polygon points="190.0,304.6 186.4,315.88 195.4,308.68 184.6,308.68 193.6,315.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="190.0,316.6 186.4,327.88 195.4,320.68 184.6,320.68 193.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="190" cy="358" r="6" fill="#000000ff"/>
+		<polygon points="190.0,400 184,412.0 196.0,412.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="190" cy="418" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="184"/>
+		<polygon points="190.0,460 184,472.0 196.0,472.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="202" cy="58" r="6" fill="#000000ff"/>
+		<polygon points="202.0,64.6 198.4,75.88 207.4,68.68 196.6,68.68 205.6,75.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="88" x="196"/>
+		<polygon points="202.0,100 196,112.0 208.0,112.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="112" x="196"/>
+		<polygon points="202.0,136 196,148.0 208.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="202" cy="178" r="6" fill="#000000ff"/>
+		<polygon points="202.0,184.6 198.4,195.88 207.4,188.68 196.6,188.68 205.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="202" cy="202" r="6" fill="#000000ff"/>
+		<polygon points="202.0,208.6 198.4,219.88 207.4,212.68 196.6,212.68 205.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="202.0,232 196,244.0 208.0,244.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="202" cy="298" r="6" fill="#000000ff"/>
+		<polygon points="202.0,316 196,328.0 208.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="202.0,328.6 198.4,339.88 207.4,332.68 196.6,332.68 205.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="202" cy="346" r="6" fill="#000000ff"/>
+		<circle cx="202" cy="382" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="196"/>
+		<polygon points="202.0,424.6 198.4,435.88 207.4,428.68 196.6,428.68 205.6,435.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="202.0,460 196,472.0 208.0,472.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="214" cy="34" r="6" fill="#000000ff"/>
+		<polygon points="214.0,52 208,64.0 220.0,64.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="214" cy="130" r="6" fill="#000000ff"/>
+		<polygon points="214.0,136.6 210.4,147.88 219.4,140.68 208.6,140.68 217.6,147.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="214.0,148 208,160.0 220.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="214.0,172 208,184.0 220.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="214" cy="202" r="6" fill="#000000ff"/>
+		<polygon points="214.0,208.6 210.4,219.88 219.4,212.68 208.6,212.68 217.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="214" cy="226" r="6" fill="#000000ff"/>
+		<circle cx="214" cy="250" r="6" fill="#000000ff"/>
+		<polygon points="214.0,268 208,280.0 220.0,280.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="214" cy="298" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="304" x="208"/>
+		<rect fill="#000000ff" height="12" width="12" y="340" x="208"/>
+		<rect fill="#000000ff" height="12" width="12" y="352" x="208"/>
+		<circle cx="214" cy="406" r="6" fill="#000000ff"/>
+		<polygon points="214.0,436 208,448.0 220.0,448.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="226" cy="58" r="6" fill="#000000ff"/>
+		<polygon points="226.0,100.6 222.4,111.88 231.4,104.68 220.6,104.68 229.6,111.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="226" cy="130" r="6" fill="#000000ff"/>
+		<polygon points="226.0,184.6 222.4,195.88 231.4,188.68 220.6,188.68 229.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="226" cy="214" r="6" fill="#000000ff"/>
+		<circle cx="226" cy="226" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="244" x="220"/>
+		<rect fill="#000000ff" height="12" width="12" y="256" x="220"/>
+		<polygon points="226.0,268 220,280.0 232.0,280.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,280.6 222.4,291.88 231.4,284.68 220.6,284.68 229.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,292 220,304.0 232.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,328.6 222.4,339.88 231.4,332.68 220.6,332.68 229.6,339.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="226" cy="370" r="6" fill="#000000ff"/>
+		<polygon points="226.0,376.6 222.4,387.88 231.4,380.68 220.6,380.68 229.6,387.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,388 220,400.0 232.0,400.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,412.6 222.4,423.88 231.4,416.68 220.6,416.68 229.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="226.0,460.6 222.4,471.88 231.4,464.68 220.6,464.68 229.6,471.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="238" cy="46" r="6" fill="#000000ff"/>
+		<polygon points="238.0,88 232,100.0 244.0,100.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="238.0,112.6 234.4,123.88 243.4,116.68 232.6,116.68 241.6,123.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="238" cy="178" r="6" fill="#000000ff"/>
+		<polygon points="238.0,196.6 234.4,207.88 243.4,200.68 232.6,200.68 241.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="208" x="232"/>
+		<polygon points="238.0,220 232,232.0 244.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="238.0,232.6 234.4,243.88 243.4,236.68 232.6,236.68 241.6,243.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="280" x="232"/>
+		<polygon points="238.0,292 232,304.0 244.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="304" x="232"/>
+		<rect fill="#000000ff" height="12" width="12" y="316" x="232"/>
+		<circle cx="238" cy="346" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="352" x="232"/>
+		<polygon points="238.0,364 232,376.0 244.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="238" cy="382" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="232"/>
+		<polygon points="250.0,40 244,52.0 256.0,52.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,64 244,76.0 256.0,76.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,88 244,100.0 256.0,100.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,100 244,112.0 256.0,112.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,124.6 246.4,135.88 255.4,128.68 244.6,128.68 253.6,135.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,148 244,160.0 256.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,160 244,172.0 256.0,172.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="208" x="244"/>
+		<polygon points="250.0,220.6 246.4,231.88 255.4,224.68 244.6,224.68 253.6,231.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="250" cy="310" r="6" fill="#000000ff"/>
+		<circle cx="250" cy="346" r="6" fill="#000000ff"/>
+		<polygon points="250.0,352 244,364.0 256.0,364.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="250" cy="370" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="376" x="244"/>
+		<polygon points="250.0,388 244,400.0 256.0,400.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="250.0,424 244,436.0 256.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="250" cy="442" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="448" x="244"/>
+		<circle cx="262" cy="46" r="6" fill="#000000ff"/>
+		<circle cx="262" cy="70" r="6" fill="#000000ff"/>
+		<polygon points="262.0,76 256,88.0 268.0,88.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,136 256,148.0 268.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,148 256,160.0 268.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="262" cy="166" r="6" fill="#000000ff"/>
+		<polygon points="262.0,280.6 258.4,291.88 267.4,284.68 256.6,284.68 265.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,292 256,304.0 268.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,316 256,328.0 268.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,340.6 258.4,351.88 267.4,344.68 256.6,344.68 265.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,352.6 258.4,363.88 267.4,356.68 256.6,356.68 265.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,364 256,376.0 268.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,388 256,400.0 268.0,400.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,400 256,412.0 268.0,412.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="262.0,412 256,424.0 268.0,424.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="262" cy="442" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="460" x="256"/>
+		<polygon points="274.0,40.6 270.4,51.88 279.4,44.68 268.6,44.68 277.6,51.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="64" x="268"/>
+		<circle cx="274" cy="94" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="100" x="268"/>
+		<polygon points="274.0,112 268,124.0 280.0,124.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="274" cy="178" r="6" fill="#000000ff"/>
+		<circle cx="274" cy="250" r="6" fill="#000000ff"/>
+		<polygon points="274.0,256 268,268.0 280.0,268.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="268" x="268"/>
+		<rect fill="#000000ff" height="12" width="12" y="280" x="268"/>
+		<polygon points="274.0,364 268,376.0 280.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="274.0,448.6 270.4,459.88 279.4,452.68 268.6,452.68 277.6,459.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,28 280,40.0 292.0,40.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="286" cy="58" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="76" x="280"/>
+		<polygon points="286.0,88 280,100.0 292.0,100.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="112" x="280"/>
+		<polygon points="286.0,124.6 282.4,135.88 291.4,128.68 280.6,128.68 289.6,135.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,172 280,184.0 292.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,196.6 282.4,207.88 291.4,200.68 280.6,200.68 289.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="220" x="280"/>
+		<rect fill="#000000ff" height="12" width="12" y="232" x="280"/>
+		<polygon points="286.0,256 280,268.0 292.0,268.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,268.6 282.4,279.88 291.4,272.68 280.6,272.68 289.6,279.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,280.6 282.4,291.88 291.4,284.68 280.6,284.68 289.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,304.6 282.4,315.88 291.4,308.68 280.6,308.68 289.6,315.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,316 280,328.0 292.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="340" x="280"/>
+		<polygon points="286.0,352.6 282.4,363.88 291.4,356.68 280.6,356.68 289.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="286" cy="370" r="6" fill="#000000ff"/>
+		<polygon points="286.0,400 280,412.0 292.0,412.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,412 280,424.0 292.0,424.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,436.6 282.4,447.88 291.4,440.68 280.6,440.68 289.6,447.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="286.0,448 280,460.0 292.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,64 292,76.0 304.0,76.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,76 292,88.0 304.0,88.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,100.6 294.4,111.88 303.4,104.68 292.6,104.68 301.6,111.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="172" x="292"/>
+		<rect fill="#000000ff" height="12" width="12" y="184" x="292"/>
+		<polygon points="298.0,208.6 294.4,219.88 303.4,212.68 292.6,212.68 301.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,232.6 294.4,243.88 303.4,236.68 292.6,236.68 301.6,243.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="304" x="292"/>
+		<circle cx="298" cy="322" r="6" fill="#000000ff"/>
+		<polygon points="298.0,412 292,424.0 304.0,424.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,448 292,460.0 304.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="298.0,460 292,472.0 304.0,472.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="28" x="304"/>
+		<circle cx="310" cy="46" r="6" fill="#000000ff"/>
+		<polygon points="310.0,64 304,76.0 316.0,76.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,136 304,148.0 316.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,160.6 306.4,171.88 315.4,164.68 304.6,164.68 313.6,171.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,172.6 306.4,183.88 315.4,176.68 304.6,176.68 313.6,183.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,196.6 306.4,207.88 315.4,200.68 304.6,200.68 313.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,208 304,220.0 316.0,220.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,220 304,232.0 316.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,232.6 306.4,243.88 315.4,236.68 304.6,236.68 313.6,243.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,280.6 306.4,291.88 315.4,284.68 304.6,284.68 313.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,292 304,304.0 316.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,316.6 306.4,327.88 315.4,320.68 304.6,320.68 313.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="310.0,340.6 306.4,351.88 315.4,344.68 304.6,344.68 313.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="310" cy="430" r="6" fill="#000000ff"/>
+		<polygon points="310.0,436.6 306.4,447.88 315.4,440.68 304.6,440.68 313.6,447.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="310" cy="454" r="6" fill="#000000ff"/>
+		<circle cx="322" cy="34" r="6" fill="#000000ff"/>
+		<polygon points="322.0,64.6 318.4,75.88 327.4,68.68 316.6,68.68 325.6,75.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,76.6 318.4,87.88 327.4,80.68 316.6,80.68 325.6,87.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,100.6 318.4,111.88 327.4,104.68 316.6,104.68 325.6,111.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="160" x="316"/>
+		<polygon points="322.0,196.6 318.4,207.88 327.4,200.68 316.6,200.68 325.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="322" cy="214" r="6" fill="#000000ff"/>
+		<polygon points="322.0,220 316,232.0 328.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="322" cy="238" r="6" fill="#000000ff"/>
+		<polygon points="322.0,256 316,268.0 328.0,268.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,280 316,292.0 328.0,292.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,304 316,316.0 328.0,316.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,316 316,328.0 328.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="322" cy="334" r="6" fill="#000000ff"/>
+		<polygon points="322.0,340.6 318.4,351.88 327.4,344.68 316.6,344.68 325.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="322.0,388.6 318.4,399.88 327.4,392.68 316.6,392.68 325.6,399.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="436" x="316"/>
+		<polygon points="322.0,460 316,472.0 328.0,472.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,40.6 330.4,51.88 339.4,44.68 328.6,44.68 337.6,51.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="334" cy="94" r="6" fill="#000000ff"/>
+		<polygon points="334.0,112 328,124.0 340.0,124.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,148.6 330.4,159.88 339.4,152.68 328.6,152.68 337.6,159.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="334" cy="166" r="6" fill="#000000ff"/>
+		<polygon points="334.0,172 328,184.0 340.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,196 328,208.0 340.0,208.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="334" cy="226" r="6" fill="#000000ff"/>
+		<polygon points="334.0,292 328,304.0 340.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="334" cy="322" r="6" fill="#000000ff"/>
+		<polygon points="334.0,340.6 330.4,351.88 339.4,344.68 328.6,344.68 337.6,351.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,364.6 330.4,375.88 339.4,368.68 328.6,368.68 337.6,375.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,388.6 330.4,399.88 339.4,392.68 328.6,392.68 337.6,399.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,400 328,412.0 340.0,412.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="334.0,412.6 330.4,423.88 339.4,416.68 328.6,416.68 337.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,40.6 342.4,51.88 351.4,44.68 340.6,44.68 349.6,51.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,76.6 342.4,87.88 351.4,80.68 340.6,80.68 349.6,87.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,100.6 342.4,111.88 351.4,104.68 340.6,104.68 349.6,111.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="112" x="340"/>
+		<rect fill="#000000ff" height="12" width="12" y="136" x="340"/>
+		<polygon points="346.0,172 340,184.0 352.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="346" cy="190" r="6" fill="#000000ff"/>
+		<polygon points="346.0,196.6 342.4,207.88 351.4,200.68 340.6,200.68 349.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,232 340,244.0 352.0,244.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="346" cy="250" r="6" fill="#000000ff"/>
+		<circle cx="346" cy="286" r="6" fill="#000000ff"/>
+		<polygon points="346.0,304 340,316.0 352.0,316.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="346" cy="334" r="6" fill="#000000ff"/>
+		<polygon points="346.0,340 340,352.0 352.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,352.6 342.4,363.88 351.4,356.68 340.6,356.68 349.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,364 340,376.0 352.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,376.6 342.4,387.88 351.4,380.68 340.6,380.68 349.6,387.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="346" cy="394" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="340"/>
+		<circle cx="346" cy="430" r="6" fill="#000000ff"/>
+		<polygon points="346.0,436.6 342.4,447.88 351.4,440.68 340.6,440.68 349.6,447.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="346.0,448 340,460.0 352.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="358" cy="70" r="6" fill="#000000ff"/>
+		<polygon points="358.0,124 352,136.0 364.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,136 352,148.0 364.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,160 352,172.0 364.0,172.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,172 352,184.0 364.0,184.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,196 352,208.0 364.0,208.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,220 352,232.0 364.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,232.6 354.4,243.88 363.4,236.68 352.6,236.68 361.6,243.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,244 352,256.0 364.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="268" x="352"/>
+		<polygon points="358.0,316.6 354.4,327.88 363.4,320.68 352.6,320.68 361.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,340 352,352.0 364.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="358.0,364.6 354.4,375.88 363.4,368.68 352.6,368.68 361.6,375.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="358" cy="394" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="400" x="352"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="352"/>
+		<circle cx="358" cy="466" r="6" fill="#000000ff"/>
+		<polygon points="370.0,28.6 366.4,39.88 375.4,32.68 364.6,32.68 373.6,39.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="370.0,64 364,76.0 376.0,76.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="370" cy="82" r="6" fill="#000000ff"/>
+		<polygon points="370.0,100 364,112.0 376.0,112.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="370.0,136.6 366.4,147.88 375.4,140.68 364.6,140.68 373.6,147.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="370.0,160.6 366.4,171.88 375.4,164.68 364.6,164.68 373.6,171.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="172" x="364"/>
+		<rect fill="#000000ff" height="12" width="12" y="184" x="364"/>
+		<rect fill="#000000ff" height="12" width="12" y="196" x="364"/>
+		<circle cx="370" cy="214" r="6" fill="#000000ff"/>
+		<polygon points="370.0,220 364,232.0 376.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="244" x="364"/>
+		<circle cx="370" cy="262" r="6" fill="#000000ff"/>
+		<circle cx="370" cy="298" r="6" fill="#000000ff"/>
+		<polygon points="370.0,316.6 366.4,327.88 375.4,320.68 364.6,320.68 373.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="370.0,352.6 366.4,363.88 375.4,356.68 364.6,356.68 373.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="370" cy="370" r="6" fill="#000000ff"/>
+		<polygon points="370.0,376.6 366.4,387.88 375.4,380.68 364.6,380.68 373.6,387.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="370.0,388.6 366.4,399.88 375.4,392.68 364.6,392.68 373.6,399.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="400" x="364"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="364"/>
+		<polygon points="370.0,424 364,436.0 376.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="124" x="376"/>
+		<polygon points="382.0,148.6 378.4,159.88 387.4,152.68 376.6,152.68 385.6,159.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="382.0,160.6 378.4,171.88 387.4,164.68 376.6,164.68 385.6,171.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="382.0,172.6 378.4,183.88 387.4,176.68 376.6,176.68 385.6,183.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="382.0,220 376,232.0 388.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="244" x="376"/>
+		<circle cx="382" cy="262" r="6" fill="#000000ff"/>
+		<polygon points="382.0,280.6 378.4,291.88 387.4,284.68 376.6,284.68 385.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="292" x="376"/>
+		<rect fill="#000000ff" height="12" width="12" y="304" x="376"/>
+		<polygon points="382.0,316 376,328.0 388.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="382.0,328 376,340.0 388.0,340.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="382" cy="346" r="6" fill="#000000ff"/>
+		<polygon points="382.0,352.6 378.4,363.88 387.4,356.68 376.6,356.68 385.6,363.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="364" x="376"/>
+		<polygon points="382.0,412.6 378.4,423.88 387.4,416.68 376.6,416.68 385.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="382.0,448 376,460.0 388.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="382" cy="466" r="6" fill="#000000ff"/>
+		<polygon points="394.0,124 388,136.0 400.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="148" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="172" x="388"/>
+		<polygon points="394.0,184 388,196.0 400.0,196.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="394.0,196.6 390.4,207.88 399.4,200.68 388.6,200.68 397.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="244" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="256" x="388"/>
+		<circle cx="394" cy="274" r="6" fill="#000000ff"/>
+		<polygon points="394.0,292.6 390.4,303.88 399.4,296.68 388.6,296.68 397.6,303.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="304" x="388"/>
+		<polygon points="394.0,316 388,328.0 400.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="394.0,328 388,340.0 400.0,340.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="394" cy="346" r="6" fill="#000000ff"/>
+		<polygon points="394.0,364 388,376.0 400.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="388" x="388"/>
+		<polygon points="394.0,412 388,424.0 400.0,424.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="424" x="388"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="388"/>
+		<polygon points="394.0,448 388,460.0 400.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="406.0,124 400,136.0 412.0,136.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="406.0,148 400,160.0 412.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="406.0,160.6 402.4,171.88 411.4,164.68 400.6,164.68 409.6,171.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="184" x="400"/>
+		<circle cx="406" cy="214" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="232" x="400"/>
+		<rect fill="#000000ff" height="12" width="12" y="256" x="400"/>
+		<polygon points="406.0,280.6 402.4,291.88 411.4,284.68 400.6,284.68 409.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="406" cy="298" r="6" fill="#000000ff"/>
+		<circle cx="406" cy="310" r="6" fill="#000000ff"/>
+		<polygon points="406.0,340 400,352.0 412.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="406.0,364 400,376.0 412.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="406" cy="418" r="6" fill="#000000ff"/>
+		<polygon points="406.0,424 400,436.0 412.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="406" cy="442" r="6" fill="#000000ff"/>
+		<polygon points="418.0,148.6 414.4,159.88 423.4,152.68 412.6,152.68 421.6,159.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,172.6 414.4,183.88 423.4,176.68 412.6,176.68 421.6,183.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,220 412,232.0 424.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="232" x="412"/>
+		<polygon points="418.0,244 412,256.0 424.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="418" cy="298" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="328" x="412"/>
+		<rect fill="#000000ff" height="12" width="12" y="340" x="412"/>
+		<polygon points="418.0,364 412,376.0 424.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,376.6 414.4,387.88 423.4,380.68 412.6,380.68 421.6,387.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="388" x="412"/>
+		<polygon points="418.0,400.6 414.4,411.88 423.4,404.68 412.6,404.68 421.6,411.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,412.6 414.4,423.88 423.4,416.68 412.6,416.68 421.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,424.6 414.4,435.88 423.4,428.68 412.6,428.68 421.6,435.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,436 412,448.0 424.0,448.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="418.0,448.6 414.4,459.88 423.4,452.68 412.6,452.68 421.6,459.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,136 424,148.0 436.0,148.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="160" x="424"/>
+		<polygon points="430.0,184 424,196.0 436.0,196.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,196.6 426.4,207.88 435.4,200.68 424.6,200.68 433.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,208.6 426.4,219.88 435.4,212.68 424.6,212.68 433.6,219.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="256" x="424"/>
+		<polygon points="430.0,268 424,280.0 436.0,280.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="430" cy="310" r="6" fill="#000000ff"/>
+		<polygon points="430.0,316 424,328.0 436.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="328" x="424"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="424"/>
+		<polygon points="430.0,400 424,412.0 436.0,412.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,412.6 426.4,423.88 435.4,416.68 424.6,416.68 433.6,423.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,436 424,448.0 436.0,448.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="430.0,448 424,460.0 436.0,460.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="124" x="436"/>
+		<rect fill="#000000ff" height="12" width="12" y="148" x="436"/>
+		<polygon points="442.0,196.6 438.4,207.88 447.4,200.68 436.6,200.68 445.6,207.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="442.0,208 436,220.0 448.0,220.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="442.0,220.6 438.4,231.88 447.4,224.68 436.6,224.68 445.6,231.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="442.0,244 436,256.0 448.0,256.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="442" cy="262" r="6" fill="#000000ff"/>
+		<polygon points="442.0,292 436,304.0 448.0,304.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="442.0,316 436,328.0 448.0,328.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="340" x="436"/>
+		<circle cx="442" cy="370" r="6" fill="#000000ff"/>
+		<polygon points="442.0,388 436,400.0 448.0,400.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="442" cy="406" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="436" x="436"/>
+		<polygon points="442.0,448.6 438.4,459.88 447.4,452.68 436.6,452.68 445.6,459.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,124.6 450.4,135.88 459.4,128.68 448.6,128.68 457.6,135.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,136.6 450.4,147.88 459.4,140.68 448.6,140.68 457.6,147.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,148 448,160.0 460.0,160.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,184.6 450.4,195.88 459.4,188.68 448.6,188.68 457.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,220 448,232.0 460.0,232.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="244" x="448"/>
+		<polygon points="454.0,280.6 450.4,291.88 459.4,284.68 448.6,284.68 457.6,291.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<polygon points="454.0,292.6 450.4,303.88 459.4,296.68 448.6,296.68 457.6,303.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="316" x="448"/>
+		<rect fill="#000000ff" height="12" width="12" y="328" x="448"/>
+		<polygon points="454.0,340 448,352.0 460.0,352.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="364" x="448"/>
+		<circle cx="454" cy="382" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="388" x="448"/>
+		<circle cx="454" cy="418" r="6" fill="#000000ff"/>
+		<polygon points="454.0,424 448,436.0 460.0,436.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="454" cy="454" r="6" fill="#000000ff"/>
+		<circle cx="454" cy="466" r="6" fill="#000000ff"/>
+		<circle cx="466" cy="130" r="6" fill="#000000ff"/>
+		<circle cx="466" cy="178" r="6" fill="#000000ff"/>
+		<polygon points="466.0,184.6 462.4,195.88 471.4,188.68 460.6,188.68 469.6,195.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="220" x="460"/>
+		<polygon points="466.0,232 460,244.0 472.0,244.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="244" x="460"/>
+		<rect fill="#000000ff" height="12" width="12" y="292" x="460"/>
+		<polygon points="466.0,316.6 462.4,327.88 471.4,320.68 460.6,320.68 469.6,327.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="466" cy="334" r="6" fill="#000000ff"/>
+		<polygon points="466.0,364 460,376.0 472.0,376.0 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<circle cx="466" cy="382" r="6" fill="#000000ff"/>
+		<circle cx="466" cy="394" r="6" fill="#000000ff"/>
+		<rect fill="#000000ff" height="12" width="12" y="412" x="460"/>
+		<polygon points="466.0,424.6 462.4,435.88 471.4,428.68 460.6,428.68 469.6,435.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+		<rect fill="#000000ff" height="12" width="12" y="436" x="460"/>
+		<polygon points="466.0,460.6 462.4,471.88 471.4,464.68 460.6,464.68 469.6,471.88 "  style="fill:#000000ff;fill-rule:nonzero;" />
+
+	</g>
+</svg>
