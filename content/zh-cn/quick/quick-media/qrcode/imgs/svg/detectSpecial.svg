@@ -2,106 +2,123 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
 
 	<g id="qr">
-		<rect fill="#ffffffff" height="300" width="300" y="0" x="0"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="27" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="55" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="237" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="244" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="251" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="258" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="265" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="20"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="27"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="27"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="27"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="27"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="244" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="251" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="258" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="34"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="244" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="251" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="258" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="41"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="244" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="251" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="258" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="48"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="55"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="55"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="55"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="55"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="27" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="55" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="230" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="237" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="244" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="251" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="258" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="265" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="272" x="62"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="27" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="55" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="230"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="237"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="237"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="244"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="244"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="244"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="244"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="244"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="251"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="251"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="251"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="251"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="251"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="258"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="258"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="258"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="258"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="258"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="265"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="265"/>
-		<rect fill="#000000ff" height="7" width="7" y="20" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="27" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="34" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="41" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="48" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="55" x="272"/>
-		<rect fill="#000000ff" height="7" width="7" y="62" x="272"/>
+		<rect fill="#ffffffff" x="0" y="0" width="300" height="300" />
+		<rect fill="#000000ff" x="20" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="27" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="55" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="237" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="251" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="258" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="265" width="7" height="7" />
+		<rect fill="#000000ff" x="20" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="27" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="27" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="27" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="27" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="251" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="258" width="7" height="7" />
+		<rect fill="#000000ff" x="34" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="251" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="258" width="7" height="7" />
+		<rect fill="#000000ff" x="41" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="251" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="258" width="7" height="7" />
+		<rect fill="#000000ff" x="48" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="55" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="55" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="55" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="55" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="27" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="55" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="237" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="251" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="258" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="265" width="7" height="7" />
+		<rect fill="#000000ff" x="62" y="272" width="7" height="7" />
+		<rect fill="#000000ff" x="216" y="216" width="7" height="7" />
+		<rect fill="#000000ff" x="216" y="223" width="7" height="7" />
+		<rect fill="#000000ff" x="216" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="216" y="237" width="7" height="7" />
+		<rect fill="#000000ff" x="216" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="223" y="216" width="7" height="7" />
+		<rect fill="#000000ff" x="223" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="27" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="55" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="216" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="230" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="237" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="237" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="237" y="216" width="7" height="7" />
+		<rect fill="#000000ff" x="237" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="216" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="223" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="230" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="237" width="7" height="7" />
+		<rect fill="#000000ff" x="244" y="244" width="7" height="7" />
+		<rect fill="#000000ff" x="251" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="251" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="251" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="251" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="251" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="258" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="258" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="258" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="258" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="258" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="265" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="265" y="62" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="20" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="27" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="34" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="41" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="48" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="55" width="7" height="7" />
+		<rect fill="#000000ff" x="272" y="62" width="7" height="7" />
 		<circle cx="23" cy="86" r="3" fill="#000000ff"/>
 		<circle cx="23" cy="107" r="3" fill="#000000ff"/>
 		<circle cx="23" cy="149" r="3" fill="#000000ff"/>
@@ -559,11 +576,6 @@
 		<circle cx="219" cy="177" r="3" fill="#000000ff"/>
 		<circle cx="219" cy="191" r="3" fill="#000000ff"/>
 		<circle cx="219" cy="212" r="3" fill="#000000ff"/>
-		<circle cx="219" cy="219" r="3" fill="#000000ff"/>
-		<circle cx="219" cy="226" r="3" fill="#000000ff"/>
-		<circle cx="219" cy="233" r="3" fill="#000000ff"/>
-		<circle cx="219" cy="240" r="3" fill="#000000ff"/>
-		<circle cx="219" cy="247" r="3" fill="#000000ff"/>
 		<circle cx="219" cy="254" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="79" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="93" r="3" fill="#000000ff"/>
@@ -579,8 +591,6 @@
 		<circle cx="226" cy="198" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="205" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="212" r="3" fill="#000000ff"/>
-		<circle cx="226" cy="219" r="3" fill="#000000ff"/>
-		<circle cx="226" cy="247" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="268" r="3" fill="#000000ff"/>
 		<circle cx="226" cy="275" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="79" r="3" fill="#000000ff"/>
@@ -596,9 +606,6 @@
 		<circle cx="233" cy="191" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="198" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="205" r="3" fill="#000000ff"/>
-		<circle cx="233" cy="219" r="3" fill="#000000ff"/>
-		<circle cx="233" cy="233" r="3" fill="#000000ff"/>
-		<circle cx="233" cy="247" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="254" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="261" r="3" fill="#000000ff"/>
 		<circle cx="233" cy="268" r="3" fill="#000000ff"/>
@@ -613,8 +620,6 @@
 		<circle cx="240" cy="177" r="3" fill="#000000ff"/>
 		<circle cx="240" cy="184" r="3" fill="#000000ff"/>
 		<circle cx="240" cy="205" r="3" fill="#000000ff"/>
-		<circle cx="240" cy="219" r="3" fill="#000000ff"/>
-		<circle cx="240" cy="247" r="3" fill="#000000ff"/>
 		<circle cx="240" cy="254" r="3" fill="#000000ff"/>
 		<circle cx="240" cy="261" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="93" r="3" fill="#000000ff"/>
@@ -625,11 +630,6 @@
 		<circle cx="247" cy="177" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="198" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="205" r="3" fill="#000000ff"/>
-		<circle cx="247" cy="219" r="3" fill="#000000ff"/>
-		<circle cx="247" cy="226" r="3" fill="#000000ff"/>
-		<circle cx="247" cy="233" r="3" fill="#000000ff"/>
-		<circle cx="247" cy="240" r="3" fill="#000000ff"/>
-		<circle cx="247" cy="247" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="254" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="261" r="3" fill="#000000ff"/>
 		<circle cx="247" cy="268" r="3" fill="#000000ff"/>

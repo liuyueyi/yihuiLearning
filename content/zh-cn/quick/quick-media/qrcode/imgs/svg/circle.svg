@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
 
 	<g id="qr">
-		<rect fill="#ffffffff" height="300" width="300" y="0" x="0"/>
+		<rect fill="#ffffffff" x="0" y="0" width="300" height="300" />
 		<circle cx="23" cy="23" r="3" fill="#000000ff"/>
 		<circle cx="23" cy="30" r="3" fill="#000000ff"/>
 		<circle cx="23" cy="37" r="3" fill="#000000ff"/>

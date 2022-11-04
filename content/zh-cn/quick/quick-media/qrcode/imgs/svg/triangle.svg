@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
 
 	<g id="qr">
-		<rect fill="#ffffffff" height="300" width="300" y="0" x="0"/>
+		<rect fill="#ffffffff" x="0" y="0" width="300" height="300" />
 		<polygon points="23.49,20 20,26.99 26.99,26.99 "  style="fill:#000000ff;fill-rule:nonzero;" />
 		<polygon points="23.49,27 20,33.989998 26.99,33.989998 "  style="fill:#000000ff;fill-rule:nonzero;" />
 		<polygon points="23.49,34 20,40.989998 26.99,40.989998 "  style="fill:#000000ff;fill-rule:nonzero;" />
